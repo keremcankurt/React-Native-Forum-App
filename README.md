@@ -1,6 +1,7 @@
 # React-Native-Forum-App
 
-![gorsel1](assets/1.jpg =250x)
+<img src="assets/1.jpg" alt="gorsel1" width="250"/>
+
 ![gorsel2](assets/2.jpg)
 ![gorsel3](assets/3.jpg)
 ![gorsel4](assets/4.jpg)
