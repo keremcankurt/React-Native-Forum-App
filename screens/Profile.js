@@ -84,7 +84,7 @@ export default function Profile({setUserFullName}) {
   return (
     <View style={styles.wrapper}>
         <View style={styles.container}>
-        <Text style={styles.title}>Profil Bilgileri</Text>
+        <Text style={styles.title}>Profile Informations</Text>
         <View style={styles.fullName}>
             <TextInput
                 style={styles.textName}
