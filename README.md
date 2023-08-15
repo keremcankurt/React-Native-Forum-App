@@ -1,6 +1,6 @@
 # React-Native-Forum-App
 
-![gorsel1](assets/1.jpg =500px)
+![gorsel1](assets/1.jpg =250x)
 ![gorsel2](assets/2.jpg)
 ![gorsel3](assets/3.jpg)
 ![gorsel4](assets/4.jpg)
