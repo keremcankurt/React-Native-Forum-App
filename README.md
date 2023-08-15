@@ -1,6 +1,6 @@
 # React-Native-Forum-App
 
-<img src="assets/1.jpg" alt="gorsel1" width="250" height="300"/>
+<img src="assets/1.jpg" alt="gorsel1" width="200" height="300"/>
 ![gorsel2](assets/2.jpg)
 ![gorsel3](assets/3.jpg)
 ![gorsel4](assets/4.jpg)
